@@ -4,8 +4,8 @@
 
 ## Links and Resources
 
-- [submission PR]()
-- [ci/cd]()
+- [submission PR](https://github.com/401-advanced-javascript-Rashid/Lab-Class-17/pull/1)
+- [ci/cd](https://github.com/401-advanced-javascript-Rashid/Lab-Class-17/runs/475600642?check_suite_focus=true)
 
 ## Setup
 
@@ -18,3 +18,4 @@
 - npm run lint
 
 ## UML 
+https://raw.githubusercontent.com/401-advanced-javascript-Rashid/Lab-Class-17/TCP-Server/assest/20200228_212831.jpg
